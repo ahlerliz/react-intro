@@ -1,0 +1,27 @@
+.message{
+    font-style: italic;
+    color:blueviolet;
+    font-size: large;
+}
+.username{
+    font-style: bold;
+    color:blueviolet;
+}
+
+.tweet{
+    border: solid black 2px;
+    border-radius: 10px;
+    background-color: cornsilk;
+}
+
+.name{
+    font-style: italic;
+    color:blueviolet;
+    font-size: small;
+}
+
+.date{
+    font-style: italic;
+    color:blueviolet;
+    font-size: small;
+}
